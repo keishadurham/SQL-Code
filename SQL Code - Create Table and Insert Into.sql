@@ -22,7 +22,7 @@ INSERT INTO EmployeeDemographics VALUES
 (1004, 'Harry', 'Potter', 17, 'Male'),
 (1005, 'Hermione', 'Granger', 17, 'Female'),
 (1006, 'Draco', 'Malfoy', 17, 'Male'),
-(1007, 'Ron', 'Weasley', 32, 'Male'),
+(1007, 'Ron', 'Weasley', 32, 'Male')
 
 Table 2 Insert:
 INSERT INTO EmployeeSalary VALUES

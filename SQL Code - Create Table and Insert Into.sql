@@ -11,8 +11,7 @@ Table 2 Query:
 Create Table EmployeeSalary 
 (EmployeeID int, 
 JobTitle varchar(50), 
-Salary int
-)
+Salary int)
 
 Table 1 Insert:
 INSERT INTO EmployeeDemographics VALUES

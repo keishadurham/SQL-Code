@@ -1,4 +1,4 @@
 
   SELECT *
   FROM EmployeeDemographics
-  WHERE Age >'17'
+  WHERE Age > '17'

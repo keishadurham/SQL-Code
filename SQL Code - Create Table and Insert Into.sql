@@ -18,10 +18,10 @@ INSERT INTO EmployeeDemographics VALUES
 (1001, 'Luna', 'Lovegood', 16, 'Female'),
 (1002, 'Sirius', 'Black', 32, 'Male'),
 (1003, 'Albus', 'Dumbledore', 63, 'Male'),
-(1004, 'Harry', 'Potter', 17, 'Male'),
+(1004, 'Harry', 'Potter', 16, 'Male'),
 (1005, 'Hermione', 'Granger', 17, 'Female'),
 (1006, 'Draco', 'Malfoy', 17, 'Male'),
-(1007, 'Ron', 'Weasley', 32, 'Male')
+(1007, 'Ron', 'Weasley', 17, 'Male')
 
 --Table 2 Insert:
 INSERT INTO EmployeeSalary VALUES
